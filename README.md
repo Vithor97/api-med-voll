@@ -1,3 +1,8 @@
+### Como montar o ambiente
+
+- executar o comando `docker compose up` dentro da pasta docker
+- Java 17
+
 _**problemas na migration**_
 
 **apagar tabela do Flyway**
