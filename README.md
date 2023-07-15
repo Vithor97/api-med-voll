@@ -1,7 +1,6 @@
 _**problemas na migration**_
 
 **apagar tabela do Flyway**
-
 ```
 $ delete from flyway_schema_history where success = 0;
 ```
